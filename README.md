@@ -1,4 +1,4 @@
-![머리말](https:// capsule- render.vercel.app/api?type= waving&color=85D5F1&height=150&section= header&text=웰컴&폰트컬러= fadfe7&폰트사이즈=80& 애니메이션= 페이드In&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=85D5F1&height=150&section=header&text=Welcome&fontColor=fadfe7&fontSize=80&animation=fadeIn&fontAlignY=55)
 <div align="center">
   : seedling : 안녕하세요!<br/>
 </div><br/>
